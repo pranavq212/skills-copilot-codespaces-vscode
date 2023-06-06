@@ -1,3 +1,3 @@
-function calculateNumber(var1, var2){
-    return Math.round(Math.random() * (var2 - var1) + var1);
+function calculateNumbers(var1, var2){
+    return var1 + var2;
 }
